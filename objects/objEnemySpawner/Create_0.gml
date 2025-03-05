@@ -1,5 +1,5 @@
 /// @description 
 
-spawn_cooldown = 120; // frames
+spawn_cooldown = 180; // frames
 
 alarm[0] = spawn_cooldown;
